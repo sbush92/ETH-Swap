@@ -36,5 +36,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "truffle-config.js",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbush92/ETH-Swap.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbush92/ETH-Swap/issues"
+  },
+  "homepage": "https://github.com/sbush92/ETH-Swap#readme"
 }

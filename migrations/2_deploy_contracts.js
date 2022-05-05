@@ -1,7 +1,5 @@
-const Migrations = artifacts.require("Migrations");
+const EthSwap = artifacts.require("Migrations");
 
 module.exports = function(deployer) {
   deployer.deploy(Migrations);
 };
-
-
